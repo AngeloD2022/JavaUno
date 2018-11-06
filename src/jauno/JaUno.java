@@ -16,7 +16,7 @@ public class JaUno {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //INITIAL COMMIT f
+        System.out.println("Welcome to Uno! How many players will be playing?");
     }
     
 }
